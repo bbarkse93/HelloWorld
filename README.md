@@ -26,3 +26,8 @@
 ## 잘 안될 때 해결법
 
 - git remote -v
+- git remote rm origin
+
+## Github 소스코드 다운로드 하는 법
+
+- git clone 주소
